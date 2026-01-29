@@ -1,0 +1,45 @@
+.devis {
+  max-width: 900px;
+  margin: 6rem auto;
+  padding: 2rem;
+}
+
+.tabs {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.tabs button {
+  padding: 0.8rem 1.5rem;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  background: #e5e7eb;
+}
+
+.tabs button.active {
+  background: #22c55e;
+  color: #0f172a;
+}
+
+.panel label {
+  display: block;
+  margin-top: 1rem;
+}
+
+.checkbox-label input {
+  margin-right: 8px;
+}
+
+.panel input[type="text"] {
+  width: 100%;
+  padding: 0.6rem;
+  margin-top: 0.3rem;
+}
+
+.price {
+  margin-top: 2rem;
+  font-size: 1.4rem;
+}

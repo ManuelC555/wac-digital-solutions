@@ -1,0 +1,108 @@
+{
+"nav": {
+  "services": "Web Services",
+  "autocad": "AutoCAD",
+  "devis": "Quotation",
+  "contact": "Contact"
+},
+
+"hero": {
+  "badge": "Professional Digital Services",
+  "title": "Web development & digital solutions",
+  "subtitle": "I build modern, fast and optimized websites to turn visitors into customers.",
+  "cta_primary": "Get a quote",
+  "cta_secondary": "View services"
+},
+
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Digital and technical solutions tailored to your needs",
+    "cta": "Request a quote",
+
+    "web": {
+      "title": "Web Services",
+      "desc": "Modern and high-performance web solutions.",
+      "items": {
+        "site": "Showcase & e-commerce websites",
+        "app": "Modern web applications",
+        "seo": "SEO & optimization"
+      }
+    },
+
+    "autocad": {
+      "title": "AutoCAD & Plans",
+      "desc": "Technical drawings and project estimation.",
+      "items": {
+        "plan": "2D architectural plans",
+        "devis": "Cost estimation",
+        "modif": "Plan modifications"
+      }
+    }
+  },
+
+  "autocad": {
+    "hero": {
+      "title": "Professional AutoCAD Services",
+      "subtitle": "Accurate drawings, reliable estimates, technical support"
+    },
+    "services": {
+      "title": "What I Offer",
+      "plan": "AutoCAD Drawings",
+      "plan_desc": "Architectural, technical and execution drawings",
+      "devis": "Cost Estimates & Quantity Takeoffs",
+      "devis_desc": "Accurate estimates based on detailed plans",
+      "modif": "Drawing Modifications",
+      "modif_desc": "Corrections, updates and optimizations"
+    },
+    "process": {
+      "title": "How I Work",
+      "step1": "Needs analysis",
+      "step2": "Drawing and design",
+      "step3": "Client validation",
+      "step4": "Final delivery"
+    },
+    "cta": {
+      "title": "Need an AutoCAD drawing?",
+      "text": "Contact me for a fast and personalized quote",
+      "button": "Request a quote"
+    }
+  },
+  
+  "devis": {
+    "title": "Request a quote",
+    "webTab": "Web Services",
+    "cadTab": "AutoCAD",
+    "estimate": "Estimate",
+    "currency": "€",
+
+    "web": {
+      "type": "Website type",
+      "pages": "Number of pages",
+      "seo": "SEO",
+      "multi": "Multilingual",
+      "maintenance": "Maintenance"
+    },
+
+    "cad": {
+      "type": "Plan type",
+      "surface": "Surface (sqm)",
+      "urgent": "Urgent delivery"
+    },
+     "contactTitle": "Send your request",
+    "contactText": "You will receive a fast reply via WhatsApp or email."
+  },
+  "contact": {
+  "title": "Contact",
+  "subtitle": "Let’s talk about your project. Fast response guaranteed."
+},
+
+"footer": {
+  "rights": "All rights reserved."
+},
+"whatsapp": {
+  "message": "Hello,\nI would like a quote.\n\nService: {{service}}\nEstimated price: {{price}} €\n\nPlease contact me."
+}
+}
+
+
+

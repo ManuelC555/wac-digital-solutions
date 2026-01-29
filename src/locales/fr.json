@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "services": "Web Services",
+    "autocad": "AutoCAD",
+    "devis": "Devis",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "badge": "Services digitaux professionnels",
+    "title": "Création de sites web & solutions digitales",
+    "subtitle": "Je conçois des sites web modernes, rapides et optimisés pour transformer les visiteurs en clients.",
+    "cta_primary": "Demander un devis",
+    "cta_secondary": "Voir mes services"
+  },
+
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions digitales et techniques adaptées à vos besoins",
+    "cta": "Demander un devis",
+
+    "web": {
+      "title": "Web Services",
+      "desc": "Création de solutions web modernes et performantes.",
+      "items": {
+        "site": "Sites vitrines & e-commerce",
+        "app": "Applications web modernes",
+        "seo": "SEO & optimisation"
+      }
+    },
+
+    "autocad": {
+      "title": "AutoCAD & Plans",
+      "desc": "Conception de plans techniques et estimation de projets.",
+      "items": {
+        "plan": "Plans architecturaux 2D",
+        "devis": "Devis & métrés",
+        "modif": "Modification de plans existants"
+      }
+    }
+  },
+
+  "autocad": {
+    "hero": {
+      "title": "Services AutoCAD professionnels",
+      "subtitle": "Plans précis, devis fiables et accompagnement technique"
+    },
+    "services": {
+      "title": "Ce que je propose",
+      "plan": "Plans AutoCAD",
+      "plan_desc": "Plans architecturaux, techniques et d'exécution",
+      "devis": "Devis & métrés",
+      "devis_desc": "Estimations précises basées sur les plans",
+      "modif": "Modification de plans",
+      "modif_desc": "Corrections, mises à jour et optimisation"
+    },
+    "process": {
+      "title": "Comment je travaille",
+      "step1": "Analyse du besoin",
+      "step2": "Conception du plan",
+      "step3": "Validation client",
+      "step4": "Livraison finale"
+    },
+    "cta": {
+      "title": "Besoin d’un plan AutoCAD ?",
+      "text": "Contactez-moi pour un devis rapide et personnalisé",
+      "button": "Demander un devis"
+    }
+  },
+
+  "devis": {
+    "title": "Demande de devis",
+    "webTab": "Services Web",
+    "cadTab": "AutoCAD",
+    "estimate": "Estimation",
+    "currency": "€",
+
+    "web": {
+      "pages": "Nombre de pages",
+      "seo": "SEO",
+      "multi": "Multilingue",
+      "maintenance": "Maintenance"
+    },
+
+    "cad": {
+      "surface": "Surface (m²)",
+      "urgent": "Délai urgent"
+    },
+
+    "contactTitle": "Envoyer votre demande",
+    "contactText": "Vous recevez une réponse rapide via WhatsApp ou Email"
+  },
+
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Discutons de votre projet. Réponse rapide garantie."
+  },
+
+  "footer": {
+    "rights": "Tous droits réservés"
+  },
+
+  "whatsapp": {
+    "message": "Bonjour,\nJe souhaite un devis.\n\nService : {{service}}\nMontant estimé : {{price}} €\n\nMerci de me recontacter."
+  }
+}

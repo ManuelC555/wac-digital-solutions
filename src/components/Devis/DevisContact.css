@@ -1,0 +1,35 @@
+.devis-contact {
+  margin-top: 3rem;
+  padding: 2rem;
+  background: #f8fafc;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.devis-contact h2 {
+  margin-bottom: 0.5rem;
+}
+
+.devis-contact .actions {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.btn {
+  padding: 0.8rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.whatsapp {
+  background: #25d366;
+  color: white;
+}
+
+.email {
+  background: #0f172a;
+  color: white;
+}

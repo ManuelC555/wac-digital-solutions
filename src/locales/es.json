@@ -1,0 +1,107 @@
+{
+"nav": {
+  "services": "Servicios Web",
+  "autocad": "AutoCAD",
+  "devis": "Presupuesto",
+  "contact": "Contacto"
+},
+
+"hero": {
+  "badge": "Servicios digitales profesionales",
+  "title": "Desarrollo web y soluciones digitales",
+  "subtitle": "Diseño sitios web modernos, rápidos y optimizados para convertir visitantes en clientes.",
+  "cta_primary": "Solicitar presupuesto",
+  "cta_secondary": "Ver servicios"
+},
+
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones digitales y técnicas adaptadas a sus necesidades",
+    "cta": "Solicitar presupuesto",
+
+    "web": {
+      "title": "Servicios Web",
+      "desc": "Soluciones web modernas y de alto rendimiento.",
+      "items": {
+        "site": "Sitios web y comercio electrónico",
+        "app": "Aplicaciones web modernas",
+        "seo": "SEO y optimización"
+      }
+    },
+
+    "autocad": {
+      "title": "AutoCAD y Planos",
+      "desc": "Diseños técnicos y estimación de proyectos.",
+      "items": {
+        "plan": "Planos arquitectónicos 2D",
+        "devis": "Presupuestos",
+        "modif": "Modificación de planos"
+      }
+    }
+  },
+  
+  "autocad": {
+    "hero": {
+      "title": "Servicios profesionales de AutoCAD",
+      "subtitle": "Planos precisos, presupuestos confiables y soporte técnico"
+    },
+
+    "services": {
+      "title": "Lo que ofrezco",
+      "plan": "Planos AutoCAD",
+      "plan_desc": "Planos arquitectónicos, técnicos y de ejecución",
+      "devis": "Presupuestos y mediciones",
+      "devis_desc": "Estimaciones precisas basadas en planos detallados",
+      "modif": "Modificación de planos",
+      "modif_desc": "Correcciones, actualizaciones y optimización"
+    },
+    "process": {
+      "title": "Cómo trabajo",
+      "step1": "Análisis de necesidades",
+      "step2": "Diseño del plano",
+      "step3": "Validación del cliente",
+      "step4": "Entrega final"
+    },
+    "cta": {
+      "title": "¿Necesitas un plano AutoCAD?",
+      "text": "Contáctame para un presupuesto rápido y personalizado",
+      "button": "Solicitar presupuesto"
+    }
+  },
+  
+  "devis": {
+    "title": "Solicitud de presupuesto",
+    "webTab": "Servicios Web",
+    "cadTab": "AutoCAD",
+    "estimate": "Estimación",
+    "currency": "€",
+
+    "web": {
+      "type": "Tipo de sitio",
+      "pages": "Número de páginas",
+      "seo": "SEO",
+      "multi": "Multilingüe",
+      "maintenance": "Mantenimiento"
+    },
+
+    "cad": {
+      "type": "Tipo de plano",
+      "surface": "Superficie (m²)",
+      "urgent": "Entrega urgente"
+    },
+    "contactTitle": "Enviar solicitud",
+    "contactText": "Recibirá una respuesta rápida por WhatsApp o correo electrónico."
+  },
+"contact": {
+  "title": "Contacto",
+  "subtitle": "Hablemos de su proyecto. Respuesta rápida garantizada."
+},
+"footer": {
+  "rights": "Todos los derechos reservados"
+},
+
+  "whatsapp": {
+    "message": "Hola,\nMe gustaría solicitar un presupuesto.\n\nServicio: {{service}}\nPrecio estimado: {{price}} €\n\nPor favor, póngase en contacto conmigo."
+  }
+}
+
