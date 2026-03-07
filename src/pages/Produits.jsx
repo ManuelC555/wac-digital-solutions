@@ -12,15 +12,15 @@ const books = [
 id:1,
 image:"/images/book1.jpg",
 rating:5,
-hotmart:"HOTMART_LINK",
-amazon:"AMAZON_LINK"
+hotmart:"https://go.hotmart.com/C104485305J",
+amazon:"https://www.amazon.com/dp/XXXXXXXXXX"
 },
 {
 id:2,
 image:"/images/book2.jpg",
 rating:4,
 hotmart:"https://go.hotmart.com/H104770178M",
-amazon:"AMAZON_LINK"
+amazon:"https://www.amazon.com/dp/YYYYYYYYYY"
 }
 ];
 
