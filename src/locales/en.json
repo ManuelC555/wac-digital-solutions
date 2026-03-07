@@ -3,6 +3,7 @@
   "services": "Web Services",
   "autocad": "AutoCAD",
   "devis": "Quotation",
+  "products": "Products",
   "contact": "Contact"
 },
 
@@ -82,6 +83,8 @@
       "multi": "Multilingual",
       "maintenance": "Maintenance"
     },
+    
+    
 
     "cad": {
       "type": "Plan type",
@@ -90,6 +93,27 @@
     },
      "contactTitle": "Send your request",
     "contactText": "You will receive a fast reply via WhatsApp or email."
+  },
+
+  "products": {
+    "metaTitle": "My Products | Web & AutoCAD",
+    "metaDesc": "Discover my books and digital products.",
+
+    "title": "My Products",
+    "subtitle": "Discover my books and digital products.",
+
+    "hotmart": "Buy on Hotmart",
+    "amazon": "Buy on Amazon",
+
+    "book1": {
+      "title": "CONSTRUIRE PLUS SOLIDE ET DURABLE",
+      "desc": "This book explores how new technologies and nanoscience can improve the strength, durability, and sustainability of modern construction. It offers accessible insights into the future of building materials and innovative construction methods."
+    },
+
+    "book2": {
+      "title": "UN APPEL ET UNE PROMESSE QUI NOUS MÈNENT VERS NOTRE DESTINÉE",
+      "desc": "An inspiring book that invites readers to reflect on their personal calling and the promises that guide their lives. Through thoughtful insights, the author encourages everyone to discover their purpose and move forward with faith, courage, and determination."
+    }
   },
   "contact": {
   "title": "Contact",

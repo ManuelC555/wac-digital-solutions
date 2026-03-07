@@ -37,9 +37,14 @@ export default function Navbar() {
             {t("nav.devis")}
           </Link>
 
+          <Link to="/produits" onClick={() => setOpen(false)}>
+            {t("nav.products")}
+          </Link>
+
           <Link to="/contact" className="cta" onClick={() => setOpen(false)}>
             {t("nav.contact")}
           </Link>
+
           
           <div className="lang-switch">
             <button onClick={() => changeLang("fr")}>FR</button>

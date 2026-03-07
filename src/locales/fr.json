@@ -3,6 +3,7 @@
     "services": "Web Services",
     "autocad": "AutoCAD",
     "devis": "Devis",
+    "products": "Produits",
     "contact": "Contact"
   },
 
@@ -61,6 +62,7 @@
       "step3": "Validation client",
       "step4": "Livraison finale"
     },
+
     "cta": {
       "title": "Besoin d’un plan AutoCAD ?",
       "text": "Contactez-moi pour un devis rapide et personnalisé",
@@ -87,9 +89,31 @@
       "urgent": "Délai urgent"
     },
 
+
     "contactTitle": "Envoyer votre demande",
     "contactText": "Vous recevez une réponse rapide via WhatsApp ou Email"
   },
+
+   "products": {
+  "metaTitle": "Mes Produits | Web & AutoCAD",
+  "metaDesc": "Découvrez les livres et produits numériques d'Emmanuel.",
+
+  "title": "Mes Produits",
+  "subtitle": "Découvrez mes livres et produits numériques.",
+
+  "hotmart": "Acheter sur Hotmart",
+  "amazon": "Acheter sur Amazon",
+
+  "book1": {
+    "title": "CONSTRUIRE PLUS SOLIDE ET DURABLE",
+    "desc": "Ce livre explore comment les nouvelles technologies et la nanoscience peuvent contribuer à améliorer la qualité, la durabilité et la résistance des constructions modernes. Une réflexion accessible pour mieux comprendre l’avenir du bâtiment et des matériaux."
+  },
+
+  "book2": {
+    "title": "UN APPEL ET UNE PROMESSE QUI NOUS MÈNENT VERS NOTRE DESTINÉE",
+    "desc": "Un livre inspirant qui invite chacun à réfléchir sur son appel personnel et les promesses qui orientent sa vie. À travers des réflexions profondes et accessibles, l’auteur encourage le lecteur à découvrir son destin et à avancer avec foi, courage et détermination."
+  }
+},
 
   "contact": {
     "title": "Contact",
