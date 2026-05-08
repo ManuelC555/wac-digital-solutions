@@ -113,6 +113,10 @@
     "book2": {
       "title": "UN APPEL ET UNE PROMESSE QUI NOUS MÈNENT VERS NOTRE DESTINÉE",
       "desc": "An inspiring book that invites readers to reflect on their personal calling and the promises that guide their lives. Through thoughtful insights, the author encourages everyone to discover their purpose and move forward with faith, courage, and determination."
+    },
+    "book3": {
+      "title": "UN LLAMADO Y UNA PROMESA QUE NOS LLEVAN HACIA NUESTRO DESTINO",
+      "desc": "Un libro inspirador que invita a reflexionar sobre el llamado personal y las promesas que orientan nuestra vida. A través de reflexiones profundas y accesibles, el autor anima al lector a descubrir su destino y avanzar con fe, valentía y determinación."
     }
   },
   "contact": {
