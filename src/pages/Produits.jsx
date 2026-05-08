@@ -13,14 +13,21 @@ id:1,
 image:"/images/book1.jpg",
 rating:5,
 hotmart:"https://go.hotmart.com/C104485305J",
-amazon:"https://www.amazon.com/dp/XXXXXXXXXX"
+amazon:"https://www.amazon.com/dp/B0GYMR2LZM"
 },
 {
 id:2,
 image:"/images/book2.jpg",
 rating:4,
 hotmart:"https://go.hotmart.com/H104770178M",
-amazon:"https://www.amazon.com/dp/YYYYYYYYYY"
+amazon:"https://www.amazon.com/dp/B0GYQ39C9K"
+},
+{
+id:3,
+image:"/images/book3.jpg",
+rating:4,
+hotmart:"https://go.hotmart.com/G105624537K",
+amazon:"https://www.amazon.com/dp/B0GZ9LF3CN"
 }
 ];
 
